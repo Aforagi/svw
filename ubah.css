@@ -114,7 +114,7 @@ html {
 
 .about .text p {
     color: #F7F5F4;
-    font-weight: 800;
+    font-weight: 400;
     font-size: 18px;
     letter-spacing: 0.5px;
 }
@@ -178,7 +178,7 @@ html {
 }
 
 .product .text p {
-    font-weight: 800;
+    font-weight: 400;
     font-size: 18px;
     letter-spacing: 0.5px;
 }
@@ -237,7 +237,7 @@ html {
 }
 
 .sign .text p {
-    font-weight: 700;
+    font-weight: 400;
     font-size: 18px;
     letter-spacing: 0.5px;
 }
