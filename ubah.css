@@ -59,18 +59,25 @@ html {
 
 .mid .cuy h2 {
     font-size: 45px;
+    z-index: 1;
+    text-align: left;
+    margin-left: 8%;
+    max-width: 1500px;
 }
 
 .mid .cuy p {
     width: 55%;
     font-size: 15px;
+    z-index: 1;
     letter-spacing: 0.2px;
+    margin-left: 8%;
     padding-bottom: 16px;
 }
 
 .mid .cuy a {
     background-color: #00BF85;
     padding: 9px 22px;
+    margin-left: 8%;
     font-weight: 600;
     border-radius: 30px;
     text-decoration: none;
