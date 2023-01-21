@@ -1,1 +1,1 @@
-## svw means simple video website 
+## svw means simple vanta website 
